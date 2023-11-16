@@ -1,3 +1,8 @@
+/*
+ * KYLE ANDERSEN 2023
+ */
+
+
 import java.util.Scanner;
 
 public class HighestValue {
